@@ -1,0 +1,10 @@
+C:\Users\heyde\source\repos\BookStore\Core\bin\Debug\netcoreapp3.1\BookStore.Core.deps.json
+C:\Users\heyde\source\repos\BookStore\Core\bin\Debug\netcoreapp3.1\BookStore.Core.dll
+C:\Users\heyde\source\repos\BookStore\Core\bin\Debug\netcoreapp3.1\BookStore.Core.pdb
+C:\Users\heyde\source\repos\BookStore\Core\obj\Debug\netcoreapp3.1\BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heyde\source\repos\BookStore\Core\obj\Debug\netcoreapp3.1\BookStore.Core.AssemblyInfoInputs.cache
+C:\Users\heyde\source\repos\BookStore\Core\obj\Debug\netcoreapp3.1\BookStore.Core.AssemblyInfo.cs
+C:\Users\heyde\source\repos\BookStore\Core\obj\Debug\netcoreapp3.1\BookStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\heyde\source\repos\BookStore\Core\obj\Debug\netcoreapp3.1\BookStore.Core.dll
+C:\Users\heyde\source\repos\BookStore\Core\obj\Debug\netcoreapp3.1\BookStore.Core.pdb
+C:\Users\heyde\source\repos\BookStore\Core\obj\Debug\netcoreapp3.1\BookStore.Core.csproj.AssemblyReference.cache
